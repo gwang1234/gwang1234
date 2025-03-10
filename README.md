@@ -14,8 +14,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
-<br>
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
@@ -25,12 +23,13 @@
 <br>
 
 ## 💻 My Projects
-|이름|개인/팀|기술|설명|
+|이름|개인/팀|주 기술|설명|
 |---|---|---|---|
 |[직독 한문 번역](https://github.com/gwang1234/Orient_Classical/tree/main/translation)|개인 프로젝트|`Django`, `Mysql`|한자 번역 및 한문 분석|
 |[웹툰 에픽스](https://github.com/gwang1234/WebToon)|팀 프로젝트|`SpringBoot`, `Mysql`, `Redis`|웹툰 커뮤니티 사이트|
 |[방방곡곡](https://github.com/gwang1234/capstone)|팀 프로젝트|`SpringBoot`, `Mysql`, `Redis`|소상공인 가게 정보 조회 사이트|
 
+<br>
 
 ## 📚 My Studys
 |공부|내용|
