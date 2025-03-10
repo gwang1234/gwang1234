@@ -35,7 +35,7 @@
 |공부|내용|
 |---|---|
 |[자바 중급 공부 2](https://github.com/gwang1234/java_mid_2)|제너릭, 컬렉션|
-|[자바 중급 공부 1](https://github.com/gwang1234/java_mid_1)|java.lang, enum, 시간, 예외처리|
+|[자바 중급 공부 1](https://github.com/gwang1234/java_mid_1)|java.lang, enum, 시간, 중첩 클래스, 예외처리|
 |[자바 기초 공부](https://github.com/gwang1234/java_basic)|객체지향 프로그래밍 공부|
 |[CS공부](https://github.com/gwang1234/CS_study)|컴퓨터 기초 공부|
 |[장고 튜토리얼](https://github.com/gwang1234/Orient_Classical/tree/main/tutorial), [장고 기본 공부](https://github.com/gwang1234/Orient_Classical/tree/main/practice)|장고 공식 문서 참고 공부|
