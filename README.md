@@ -29,14 +29,3 @@
 |[웹툰 에픽스](https://github.com/gwang1234/WebToon)|팀 프로젝트|`SpringBoot`, `Mysql`, `Redis`|웹툰 커뮤니티 사이트|
 |[방방곡곡](https://github.com/gwang1234/capstone)|팀 프로젝트|`SpringBoot`, `Mysql`, `Redis`|소상공인 가게 정보 조회 사이트|
 
-<br>
-
-## 📚 My Studys
-|공부|내용|
-|---|---|
-|[자바 중급 공부 2](https://github.com/gwang1234/java_mid_2)|제너릭, 컬렉션|
-|[자바 중급 공부 1](https://github.com/gwang1234/java_mid_1)|java.lang, enum, 시간, 중첩 클래스, 예외처리|
-|[자바 기초 공부](https://github.com/gwang1234/java_basic)|객체지향 프로그래밍 공부|
-|[CS공부](https://github.com/gwang1234/CS_study)|컴퓨터 기초 공부|
-|[장고 튜토리얼](https://github.com/gwang1234/Orient_Classical/tree/main/tutorial), [장고 기본 공부](https://github.com/gwang1234/Orient_Classical/tree/main/practice)|장고 공식 문서 참고 공부|
-|[공부 블로그](https://qoi11.tistory.com/)|개인 블로그 운영 기록|
